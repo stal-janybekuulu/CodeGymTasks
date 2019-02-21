@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0403;
 
 /* 
 What's the cat's name?
-
 */
 
 public class Cat {
