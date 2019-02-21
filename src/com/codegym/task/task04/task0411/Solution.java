@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0411;
 
 /* 
 Seasons on Terra
-
 */
 
 public class Solution {
