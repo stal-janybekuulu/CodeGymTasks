@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0404;
 
 /* 
 Cat register
-
 */
 
 public class Cat {
