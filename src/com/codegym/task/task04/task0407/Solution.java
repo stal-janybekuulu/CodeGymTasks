@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0407;
 
 /* 
 Cats in the Universe
-
 */
 
 public class Solution {
