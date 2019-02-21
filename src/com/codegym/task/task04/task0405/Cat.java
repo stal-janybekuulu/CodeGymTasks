@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0405;
 
 /* 
 Setting the number of cats
-
 */
 
 public class Cat {
