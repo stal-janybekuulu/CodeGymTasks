@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0406;
 
 /* 
 Name register
-
 */
 
 public class Cat {
