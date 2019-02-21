@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0409;
 
 /* 
 Closest to 10
-
 */
 
 public class Solution {
