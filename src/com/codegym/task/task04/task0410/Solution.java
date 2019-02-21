@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0410;
 
 /* 
 Come on, lucky seven!
-
 */
 
 public class Solution {
