@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0408;
 
 /* 
 Good or bad?
-
 */
 
 public class Solution {
