@@ -13,11 +13,18 @@ public class Solution {
         Scanner scanner = new Scanner(System.in);
         int year = scanner.nextInt();
 
-        if (year % 4 == 0 && year % 400 == 0) {
+        if (year % 400 == 0) {
             year = 366;
             System.out.println("Number of days in the year: " + year);
         }
-
+        else if (year % 100 == 0) {
+            year = 365;
+            System.out.println("Number of days in the year: " + year);
+        }
+        else if (year % 4 == 0) {
+            year = 366;
+            System.out.println("Number of days in the year: " + year);
+        }
         else {
             year = 365;
             System.out.println("Number of days in the year: " + year);
