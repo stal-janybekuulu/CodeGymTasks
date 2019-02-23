@@ -15,12 +15,11 @@ public class Solution {
         int b = scanner.nextInt();
         int c = scanner.nextInt();
 
-        if ((a + b > c) || (b + c > a) || (a + c > b) ) {
+        if ((a + b) > c && (b + c) > a && (a + c) > b) {
             System.out.println("The triangle is possible.");
         }
         else {
             System.out.println("The triangle is not possible.");
         }
-
     }
 }
