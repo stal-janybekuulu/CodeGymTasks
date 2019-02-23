@@ -2,7 +2,6 @@ package com.codegym.task.task04.task0416;
 
 /* 
 Crossing the road blindly
-
 */
 
 import java.io.*;
