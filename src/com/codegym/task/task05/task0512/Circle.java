@@ -2,7 +2,6 @@ package com.codegym.task.task05.task0512;
 
 /* 
 Create a Circle class
-
 */
 
 public class Circle {
