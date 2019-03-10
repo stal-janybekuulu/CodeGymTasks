@@ -12,8 +12,9 @@ target/
 *.class
 .info
 *.properties
+CodeGymTasks.iml
 
-.1.JavaSyntax
+.1.JavaSyntax.iml
 /2.JavaCore/
 /3.JavaMultithreading/
 /4.JavaCollections/
