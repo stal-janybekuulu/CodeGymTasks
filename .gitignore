@@ -7,14 +7,12 @@ target/
 .repository/
 *.iml
 *.iws
-.tcs
-.java
 *.class
-.info
+*.info
 *.properties
 CodeGymTasks.iml
 
-.1.JavaSyntax.iml
+/1.JavaSyntax/src/1.JavaSyntax.iml
 /2.JavaCore/
 /3.JavaMultithreading/
 /4.JavaCollections/
