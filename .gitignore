@@ -12,6 +12,7 @@ target/
 *.properties
 CodeGymTasks.iml
 
+
 /1.JavaSyntax/src/1.JavaSyntax.iml
 /2.JavaCore/
 /3.JavaMultithreading/
