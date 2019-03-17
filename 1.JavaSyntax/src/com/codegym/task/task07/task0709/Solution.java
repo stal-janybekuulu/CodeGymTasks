@@ -20,9 +20,9 @@ public class Solution {
             list.add(text);
         }
 
-        String shortest = list.get(0);
-        String h = "";
-        for (String st : list) {
+        String shortest = list.get(0); //помещаем значение с индексом 0 в переменную
+        String h = ""; //объявляем строковую переменную
+        for (String st : list) { //перебираем массив
             if (st.length() < shortest.length()) {
                 shortest = st;
             }
