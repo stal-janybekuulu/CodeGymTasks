@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 /* 
 Expressing ourselves more concisely
-
 */
 
 public class Solution {
