@@ -39,7 +39,7 @@ public class Solution {
         monthList.put("November", 11);
         monthList.put("December", 12);
 
-        Set<String> keys = new HashSet<>();
+        //Set<String> keys = new HashSet<>();
         for (String k: monthList.keySet()) {
             if (monthFromKeyBoard.equalsIgnoreCase(k)) {
                 int x = monthList.get(k);
