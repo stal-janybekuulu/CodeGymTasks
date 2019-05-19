@@ -2,7 +2,6 @@ package com.codegym.task.task09.task0917;
 
 /* 
 Catching unchecked exceptions
-
 */
 
 public class Solution {
