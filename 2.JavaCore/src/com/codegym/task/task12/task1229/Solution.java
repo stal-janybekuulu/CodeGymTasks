@@ -12,15 +12,17 @@ public class Solution {
         System.out.println(cto);
     }
 
+    static public class h{
+        public void workHard() {
+
+        }
+    }
+
     public static interface Businessman {
         public void workHard();
     }
 
-    public static class CTO implements Businessman {
+    public static class CTO extends h implements Businessman {
 
-        @Override
-        public void workHard() {
-            
-        }
     }
 }
