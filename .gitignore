@@ -7,6 +7,7 @@ target/
 .repository/
 *.iml
 *.iws
+*.tcs
 *.class
 *.info
 *.properties
